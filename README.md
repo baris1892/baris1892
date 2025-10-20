@@ -45,7 +45,7 @@
 
 ## Featured Projects
 
-| Project               | Description                                                                                                               | Link                                                               |
-|-----------------------|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
-| **Listing Service**   | Spring Boot microservice handling CRUD listings, Kafka events, Redis caching, and authentication. Full CI/CD, Dockerized. | [GitHub](https://github.com/baris-top-portfolio/listing-service)   |
-| **Messaging Service** | Kafka consumer microservice sending email notifications with DLT handling. Full CI/CD, Dockerized.                        | [GitHub](https://github.com/baris-top-portfolio/messaging-service) |
+| Project               | Description                                                                                                               | Link                                                     |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
+| **Listing Service**   | Spring Boot microservice handling CRUD listings, Kafka events, Redis caching, and authentication. Full CI/CD, Dockerized. | [GitHub](https://github.com/baris1892/listing-service)   |
+| **Messaging Service** | Kafka consumer microservice sending email notifications with DLT handling. Full CI/CD, Dockerized.                        | [GitHub](https://github.com/baris1892/messaging-service) |
