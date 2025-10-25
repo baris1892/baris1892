@@ -31,7 +31,6 @@
 
 **DevOps / Cloud:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FCA121?style=flat-square&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=flat-square&logo=github&logoColor=white)
@@ -49,3 +48,8 @@
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 | **Listing Service**   | Spring Boot microservice handling CRUD listings, Kafka events, Redis caching, and authentication. Full CI/CD, Dockerized. | [GitHub](https://github.com/baris1892/listing-service)   |
 | **Messaging Service** | Kafka consumer microservice sending email notifications with DLT handling. Full CI/CD, Dockerized.                        | [GitHub](https://github.com/baris1892/messaging-service) |
+
+
+
+<!-- counter: https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fbaris1892 -->
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbaris1892&labelColor=%23ffffff&countColor=%23ffffff&style=flat" width="0" height="0" />  
