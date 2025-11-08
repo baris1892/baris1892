@@ -7,8 +7,7 @@
 - Full Stack Developer with extensive experience in **PHP/Symfony**, building production-grade applications
 - Experience with **Java/Spring Boot** in backend services
 - Expanding skills in **DevOps** and **cloud technologies**
-- Maintains **clean, maintainable code in production systems**
-- Open to new opportunities starting April 2026
+- Open to new opportunities starting **April 2026**
 
 ## Tech Stack
 
@@ -44,10 +43,10 @@
 
 ## Featured Projects
 
-| Project               | Description                                                                                                               | Link                                                     |
-|-----------------------|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
-| **Listing Service**   | Spring Boot microservice handling CRUD listings, Kafka events, Redis caching, and authentication. Full CI/CD, Dockerized. | [GitHub](https://github.com/baris1892/listing-service)   |
-| **Messaging Service** | Kafka consumer microservice sending email notifications with DLT handling. Full CI/CD, Dockerized.                        | [GitHub](https://github.com/baris1892/messaging-service) |
+| Project               | Description                                                                                                               | Tech Stack                                  | Link                                                     |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|----------------------------------------------------------|
+| **Listing Service**   | Spring Boot microservice handling CRUD listings, Kafka events, Redis caching, and authentication. Full CI/CD, Dockerized. | Java, Spring Boot, Kafka, Redis, Docker, JUnit, Maven | [GitHub](https://github.com/baris1892/listing-service)   |
+| **Messaging Service** | Kafka consumer microservice sending email notifications with DLT handling. Full CI/CD, Dockerized.                        | Java, Spring Boot, Kafka, Docker, JUnit, Maven           | [GitHub](https://github.com/baris1892/messaging-service) |
 
 
 
