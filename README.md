@@ -47,8 +47,9 @@ tHub](https://github.com/baris1892/messaging-service)) | Kafka consumer microser
 
 | Project               | Description                                                                                       | Tech Stack                                  |
 |-----------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------|
-| **Listing Service** ([GitHub](https://github.com/baris1892/listing-service)) | Spring Boot microservice for CRUD listings with Kafka events, Redis caching, and authentication. Fully Dockerized with CI/CD. | Java, Spring Boot, Kafka, Redis, Docker, JUnit, Maven |
-| **Messaging Service** ([GitHub](https://github.com/baris1892/messaging-service)) | Kafka consumer microservice sending email notifications with DLT support. Fully Dockerized with CI/CD. | Java, Spring Boot, Kafka, Docker, JUnit, Maven |
+| **[Listing Service](https://github.com/baris1892/listing-service)** | Spring Boot microservice for CRUD listings, handling Kafka events, Redis caching, and authentication. Dockerized with CI/CD pipeline. | Java, Spring Boot, Kafka, Redis, Docker, JUnit, Maven |
+| **[Messaging Service](https://github.com/baris1892/messaging-service)** | Kafka consumer microservice for sending email notifications with DLT support. Dockerized with CI/CD pipeline. | Java, Spring Boot, Kafka, Docker, JUnit, Maven |
+
 
 
 <!-- counter: https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fbaris1892 -->
