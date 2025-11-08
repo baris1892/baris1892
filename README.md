@@ -40,15 +40,18 @@
 ![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+tHub](https://github.com/baris1892/messaging-service)) | Kafka consumer microservice sending email notifications with DLT handling. Full CI/CD, Dockerized. | Java, Spring Boot, Kafka, Docker, JUnit, Maven |
+
 
 ## Featured Projects
 
-| Project               | Description                                                                                                               | Tech Stack                                  | Link                                                     |
-|-----------------------|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|----------------------------------------------------------|
-| **Listing Service**   | Spring Boot microservice handling CRUD listings, Kafka events, Redis caching, and authentication. Full CI/CD, Dockerized. | Java, Spring Boot, Kafka, Redis, Docker, JUnit, Maven | [GitHub](https://github.com/baris1892/listing-service)   |
-| **Messaging Service** | Kafka consumer microservice sending email notifications with DLT handling. Full CI/CD, Dockerized.                        | Java, Spring Boot, Kafka, Docker, JUnit, Maven           | [GitHub](https://github.com/baris1892/messaging-service) |
-
+| Project               | Description                                                                                       | Tech Stack                                  |
+|-----------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------|
+| **Listing Service** ([GitHub](https://github.com/baris1892/listing-service)) | Spring Boot microservice for CRUD listings with Kafka events, Redis caching, and authentication. Fully Dockerized with CI/CD. | Java, Spring Boot, Kafka, Redis, Docker, JUnit, Maven |
+| **Messaging Service** ([GitHub](https://github.com/baris1892/messaging-service)) | Kafka consumer microservice sending email notifications with DLT support. Fully Dockerized with CI/CD. | Java, Spring Boot, Kafka, Docker, JUnit, Maven |
 
 
 <!-- counter: https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fbaris1892 -->
+
+
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbaris1892&labelColor=%23ffffff&countColor=%23ffffff&style=flat" width="0" height="0" />  
