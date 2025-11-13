@@ -40,7 +40,6 @@
 ![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-tHub](https://github.com/baris1892/messaging-service)) | Kafka consumer microservice sending email notifications with DLT handling. Full CI/CD, Dockerized. | Java, Spring Boot, Kafka, Docker, JUnit, Maven |
 
 
 ## Featured Projects
