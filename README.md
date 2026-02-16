@@ -26,8 +26,8 @@
 
 **DevOps / Cloud:**  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FCA121?style=flat-square&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=flat-square&logo=github&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argocd&logoColor=white)
@@ -50,11 +50,20 @@
 ## Featured Projects
 
 ### [Cloud-Native Infrastructure & GitOps](https://github.com/baris1892/datascientest-final-project)
-**Orchestrating a Microservices Ecosystem with k3s**
+- **Orchestrating a Microservices Ecosystem with k3s**
 - Developed a **GitOps** workflow using **ArgoCD** and **Helm** for automated deployments.
 - Provisioned infrastructure as code using **Terraform**.
 - Built robust **CI/CD pipelines** with GitHub Actions and implemented **Monitoring** via Prometheus/Grafana.
 - **Tech Stack:** Kubernetes (k3s), Docker, Terraform, ArgoCD, Helm, PostgreSQL.
+
+---
+
+### [PHP Strangler Fig Pattern](https://github.com/baris1892/php-strangler-fig-pattern)
+- **Modernizing Legacy Architectures** 
+- Practical implementation of the **Strangler Fig Pattern** to migrate legacy applications to **Symfony**.
+- Focus on zero-downtime migration and dual-framework coexistence.
+- Demonstrates architectural decision-making for large-scale enterprise systems.
+- **Tech Stack:** PHP, Symfony, Docker, Traefik
 
 ---
 
@@ -63,7 +72,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Listing Service](https://github.com/baris1892/listing-service)** | Spring Boot microservice for CRUD listings, handling Kafka events, and Redis caching. | Java, Spring Boot, Kafka, Redis, Docker |
-| **[Messaging Service](https://github.com/baris1892/messaging-service)** | Kafka consumer microservice for sending email notifications with DLT support. | Java, Spring Boot, Kafka, Docker |
+| **[Messaging Service](https://github.com/baris1892/messaging-service)** | Spring Boot Kafka consumer microservice for sending email notifications with DLT support. | Java, Spring Boot, Kafka, Docker |
 
 
 <!-- counter: https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fbaris1892 -->
