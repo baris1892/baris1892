@@ -7,7 +7,7 @@
 - **Senior Backend Engineer** with a Master’s degree in CS and deep expertise in **PHP & Symfony**
 - Passionate about **DevOps**, automating infrastructure, and **Cloud Native** development
 - Deep dive into **Kubernetes** and container orchestration
-- Enhancing DX and stability through automated **CI/CD pipelines**.
+- Enhancing DX and stability through automated **CI/CD pipelines**
 
 ---
 
@@ -51,18 +51,18 @@
 
 ### [Cloud-Native Infrastructure & GitOps](https://github.com/baris1892/datascientest-final-project)
 - **Orchestrating a Microservices Ecosystem with k3s**
-- Developed a **GitOps** workflow using **ArgoCD** and **Helm** for automated deployments.
-- Provisioned infrastructure as code using **Terraform**.
-- Built robust **CI/CD pipelines** with GitHub Actions and implemented **Monitoring** via Prometheus/Grafana.
-- **Tech Stack:** Kubernetes (k3s), Docker, Terraform, ArgoCD, Helm, PostgreSQL.
+- Developed a **GitOps** workflow using **ArgoCD** and **Helm** for automated deployments
+- Provisioned infrastructure as code using **Terraform**
+- Built robust **CI/CD pipelines** with GitHub Actions and implemented **Monitoring** via Prometheus/Grafana
+- **Tech Stack:** Kubernetes (k3s), Docker, Terraform, ArgoCD, Helm, PostgreSQL
 
 ---
 
 ### [PHP Strangler Fig Pattern](https://github.com/baris1892/php-strangler-fig-pattern)
 - **Modernizing Legacy Architectures** 
-- Practical implementation of the **Strangler Fig Pattern** to migrate legacy applications to **Symfony**.
-- Focus on zero-downtime migration and dual-framework coexistence.
-- Demonstrates architectural decision-making for large-scale enterprise systems.
+- Practical implementation of the **Strangler Fig Pattern** to migrate legacy applications to **Symfony**
+- Focus on zero-downtime migration and dual-framework coexistence
+- Demonstrates architectural decision-making for large-scale enterprise systems
 - **Tech Stack:** PHP, Symfony, Docker, Traefik
 
 ---
